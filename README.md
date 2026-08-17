@@ -1,3 +1,5 @@
+> **This is my fork.** GreenChain was a team of four at HackPrinceton 2026; the backend was mine — the models, the agents, the API. Original repository: [thejustjim/hackprinceton2026](https://github.com/thejustjim/hackprinceton2026). — [Nikhil Ramlukan](https://www.nikhilramlukan.com)
+
 <div align="center">
 
 <img src="docs/screenshots/landing-hero.png" alt="GreenChain — Compare sourcing options before you place the order" width="100%" />
